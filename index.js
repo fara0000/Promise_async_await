@@ -17,7 +17,6 @@ function (error) {
     console.log(error);
 })
 
-        
 const urls = [
     'https://swapi.co/api/people/1',
     'https://swapi.co/api/people/2',
